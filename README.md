@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-<h3>Name : PAVITHRA P </h3>
-<h3>Register Number : 212223110035 </h3>
+<h3>Name : RANJAN KUMAR G</h3>
+<h3>Register Number : 212223240138 </h3>
 
 # Algorithm or Steps Involved:
 <ol>
